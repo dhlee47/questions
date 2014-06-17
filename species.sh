@@ -1,5 +1,6 @@
 #todo: provide links to more info on animals
 #nonsense
+#added clone
 for filename in $*
 do
 echo $filename
